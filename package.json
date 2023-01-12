@@ -15,7 +15,7 @@
   "license": "ISC",
   "dependencies": {
     "@metamask/detect-provider": "^1.2.0",
-    "@openzeppelin/contracts": "^3.3.0",
+    "@openzeppelin/contracts": "^4.7.3",
     "@truffle/hdwallet-provider": "^1.2.1",
     "bignumber.js": "^9.0.1"
   }
